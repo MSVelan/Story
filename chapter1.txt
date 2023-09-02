@@ -1,1 +1,1 @@
-This is chapter1, designed to get used to version control in git.
+This is chapter1, designed to get used to version control in git. Sup bro, assume this is a new feature added only for alien-plot branch🫠.
